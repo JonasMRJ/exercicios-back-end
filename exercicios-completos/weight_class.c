@@ -14,7 +14,7 @@ int main(){
     bmi = weight / pow(height, 2);
 
     if(bmi > 40){
-        printf("You're overweight (BMI of %.2f)\n", bmi);
+        printf("You're morbid obese (BMI of %.2f)\n", bmi);
     }else if(bmi > 30 && bmi < 40){
         printf("You're obese (BMI of %.2f)\n", bmi);
     }else if(bmi > 25 && bmi < 30){
