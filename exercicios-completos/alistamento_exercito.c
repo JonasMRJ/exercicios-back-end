@@ -18,4 +18,6 @@ int main(){
 		last = 18 - age;
 		printf("In %d years you'll have to enlist. Good luck.\n", last);
 	}
+
+	return 0;
 }

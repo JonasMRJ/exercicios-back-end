@@ -32,5 +32,5 @@ int main(){
 		printf("And that's a tie.");
 	}
 	
-
+	return 0;
 }

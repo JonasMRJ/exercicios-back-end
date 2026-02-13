@@ -21,4 +21,6 @@ int main(){
 	}else{
 		printf("You did not guess the correct number (%d).\n", num);
 	}
+
+	return 0;
 }
