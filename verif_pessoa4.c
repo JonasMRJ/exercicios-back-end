@@ -14,7 +14,7 @@ int main(){
     int age, total_people, menOver30, womenUnder18;
     float medium, sum_age;
     
-    
+    // THIS CODE IS UNCOMPLETED.
     
     return 0;
 }
