@@ -14,4 +14,6 @@ int main(){
 	}else{
 		printf("%d is odd\n", x);
 	}
+
+	return 0;
 }
